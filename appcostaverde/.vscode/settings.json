@@ -1,0 +1,12 @@
+{
+    "terminal.integrated.automationShell.windows": "C:\\Users\\renan\\Developer\\cmder\\Cmder.exe",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    // "terminal.integrated.shell.windows": "C:\\Users\\renan\\Developer\\cmder\\Cmder.exe",
+    "terminal.integrated.env.windows": {
+        "CMDER_ROOT":"C:\\Users\\renan\\Developer\\cmder"
+    },
+    "terminal.integrated.shellArgs.windows": [
+        "/K",
+        "%CMDER_ROOT%\\vendor\\bin\\vscode_init"
+    ]
+}
