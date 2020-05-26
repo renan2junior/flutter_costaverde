@@ -23,6 +23,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  firebase_core: ^0.4.5
+  firebase_database: ^3.1.6
+  banner_widget: ^1.0.1
+  carousel_slider: ^2.1.0
+
 
 
   # The following adds the Cupertino Icons font to your application.
