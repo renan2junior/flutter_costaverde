@@ -1,4 +1,4 @@
-import 'package:appcostaverde/aplash/pages/aplash_page.dart';
+import 'package:appcostaverde/features/aplash/pages/aplash_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {

@@ -48,6 +48,8 @@ flutter:
   assets:
     - assets/
     - assets/images/
+    - assets/images/flag/
+    - assets/images/cidades/
     - assets/images/home/
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
